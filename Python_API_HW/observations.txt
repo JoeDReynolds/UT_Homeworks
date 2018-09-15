@@ -1,0 +1,7 @@
+		Three Observations
+
+1. From this data we can see that the only thing that Temperature is the only thing that is impacted by latitude when everything is measured at one time.  This might change if we accounted for longitude by measuring at a certain point local time.
+
+2. Humidity does not correlate strongly with latitude.  It probably correlate’s more strongly with longitude as time of day impacts humidity.
+
+3. Cloudiness does not correlate with latitude.  This is because wind speed is more dependent on other factors like overall weather patterns.
