@@ -1,0 +1,39 @@
+body {
+  background-color: #f9f7f7;
+}
+
+.navbar-brand {
+  background-color:#8babda;
+  margin-left: 100%;
+  font-size: 20px;
+}
+
+
+.summary {
+  padding-left:3%;
+  padding-top: 3%;
+  font-size: 30px;
+  color: #4c799e;
+  font-family:"Impact, Charcoal, sans-serif";
+}
+
+.pic1 {
+  float:left;
+  padding: 5%;
+}
+
+.p1 {
+  padding: 4%;
+}
+
+.visualizations {
+  font-size:25px;
+  padding-top:3%;
+  padding-left:3%;
+  color: #4c799e;
+  font-family:"Impact, Charcoal, sans-serif";
+}
+
+#right img {
+  padding-bottom:10%;
+}
